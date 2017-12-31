@@ -1,4 +1,4 @@
-# game
+# Text Adventure
 
 #Beginning prompt
 start = '''
