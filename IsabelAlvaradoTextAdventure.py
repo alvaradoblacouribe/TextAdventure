@@ -61,7 +61,5 @@ if left_right == "right" or "Right":
         print ("This is not a valid response. You can't just run away from your choices. Sometimes, choosing is something that must be done. It's a part of life.")
 
 
-#SOMETHING WRONG HERE
-
 else:
     print ("This is not a valid response. You can't just run away from your choices. Sometimes, choosing is something that must be done. It's a part of life.")
