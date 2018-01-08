@@ -1,4 +1,5 @@
-
+#To Do:
+#Complete the right option tree branch
 #Beginning prompt
 start = "You wake up one morning and find that you aren't on your bed; you aren't even in your room. \nYou're in the middle of ... somewhere. \nA sign is positioned right in front of you, covered with some dust. \nIt says: 'Welcome to the Bear Frachise'"
 choice= "There is a hallway to your right and to your left."
